@@ -9,7 +9,8 @@ This project sets up a basic Nginx server running in a Docker container.
 ## Setup Instructions
 
 1. Clone the repository:
-   git clone <your-repo-url>
+   git clone https://github.com/himajadaruru/Virtualization-Docker.git
+
    cd my-docker-nginx
 
 2. Build the Docker image:
